@@ -1,2 +1,2 @@
 # amazon-coding-challenge
-Created with CodeSandbox
+Código en index.js
